@@ -17,11 +17,10 @@
     "css": ["main.css"],
     "run_at": "document_start"
   }],
-  "homepage_url": "https://github.com/alxhotel/original-github-bar-color",
+  "homepage_url": "https://github.com/alxhotel/original-github-bar",
   "permissions": [
     "*://github.com/*",
-    "*://*.github.com/*",
-    "storage"
+    "*://*.github.com/*"
   ],
   "short_name": "Original GitHub Bar"
 }
