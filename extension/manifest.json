@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Original GitHub Bar",
-  "version": "1.0.0",
-  "description": "Bring back the original GitHub's bar",
+  "version": "1.0.1",
+  "description": "Bring back the original GitHub bar",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
