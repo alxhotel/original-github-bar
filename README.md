@@ -7,6 +7,12 @@ A Chrome Extension that brings you the original GitHub bar. Because sometimes th
 
 ![Original Github bar transform](assets/screenshot.png)
 
+## How to install
+
+Click this link to install the extension:
+
+[https://chrome.google.com/webstore/detail/original-github-bar/ncckkapnfmioehkahgadbcnodoablkpl](https://chrome.google.com/webstore/detail/original-github-bar/ncckkapnfmioehkahgadbcnodoablkpl)
+
 ## Stylish support
 
 If you already use the [Stylish chrome extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe), you can just copy the file `extension/main.css` and paste it in your Stylish editor.
