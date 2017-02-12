@@ -9,10 +9,10 @@
 
 .header-dark .header-logo-wordmark,
 .header-dark .header-logo-invertocat {
-	color: #555 !important;
+	color: #333 !important;
 }
 
-.header-logo-invertocat .octicon-mark-github {
+.header-dark .header-logo-invertocat .octicon-mark-github {
 	width: 28px !important;
 	height: 28px !important;
 }
@@ -23,7 +23,7 @@
 	padding: 4px 8px !important;
 }
 
-.user-nav .header-nav-link {
+.header-dark .user-nav .header-nav-link {
 	height: auto !important;
 }
 
@@ -35,6 +35,10 @@
 .header-dark .header-nav-link:hover .dropdown-caret,
 .header-dark .header-nav-link:focus .dropdown-caret {
 	border-top-color: #4078c0 !important;
+}
+
+.header-dark .notification-indicator .mail-status {
+	border-color: #f3f3f3 !important;
 }
 
 .header-dark .header-search {
@@ -63,7 +67,7 @@
 	border-right: 1px solid #eee !important;
 }
 
-.scoped-search .form-control.focus .header-search-scope {
+.header-dark .scoped-search .form-control.focus .header-search-scope {
 	color: #4078c0 !important;
 	background-color: #edf2f9 !important;
 	border-color: #c6d7ec !important;
