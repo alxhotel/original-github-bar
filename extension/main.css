@@ -5,6 +5,11 @@
 	border-bottom: 1px solid #e5e5e5 !important;
 }
 
+.session-authentication .header-logged-out {
+	background-color: transparent;
+	border-bottom: 0;
+}
+
 .header .header-logo-wordmark,
 .header .header-logo-invertocat {
 	color: #333 !important;
@@ -15,23 +20,31 @@
 	height: 28px !important;
 }
 
-.header .header-nav-link {
-	color: #333 !important;
-	font-size: 13px !important;
-	padding: 4px 8px !important;
+.header-sitemenu .header-navlink:hover {
+	color: rgba(0,0,0,0.5) !important;
 }
 
-.header .user-nav .header-nav-link {
+.header .header-navlink {
+	color: #333 !important;
+	font-size: 13px !important;
+	/*padding: 4px 8px !important;*/
+}
+
+.header .header-navlink .text-white {
+	color: #333 !important;
+}
+
+.header .user-nav .header-navlink {
 	height: auto !important;
 }
 
-.header .header-nav-link:hover,
-.header .header-nav-link:focus {
+.header .header-navlink:hover,
+.header .header-navlink:focus {
 	color: #4078c0 !important;
 }
 
-.header .header-nav-link:hover .dropdown-caret,
-.header .header-nav-link:focus .dropdown-caret {
+.header .header-navlink:hover .dropdown-caret,
+.header .header-navlink:focus .dropdown-caret {
 	border-top-color: #4078c0 !important;
 }
 
