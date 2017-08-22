@@ -1,0 +1,21 @@
+{
+  "name": "original-github-bar",
+  "version": "1.0.0",
+  "description": "Chrome extension that brings back the original GitHub bar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxhotel/original-github-bar.git"
+  },
+  "author": "Alex <alxmorais8@msn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxhotel/original-github-bar/issues"
+  },
+  "homepage": "https://github.com/alxhotel/original-github-bar#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-util": "^3.0.8"
+  }
+}
