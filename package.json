@@ -14,7 +14,7 @@
   "homepage": "https://github.com/alxhotel/original-github-bar#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^4.0.0",
+    "gulp-autoprefixer": "^7.0.1",
     "gulp-less": "^3.3.2",
     "gulp-util": "^3.0.8"
   }
