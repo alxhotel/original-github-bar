@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Chrome extension that brings back the original GitHub bar",
   "devDependencies": {
-    "gulp": "^5.0.0",
+    "gulp": "^5.0.1",
     "gulp-autoprefixer": "^9.0.0",
     "gulp-less": "^5.0.0",
     "gulp-util": "^3.0.8"
